@@ -1,4 +1,4 @@
-The initial model was built using YOLOv8n, after the release of YOLOv8.2 I trained a new model with it.
+The initial model was built using YOLOv8n. After the release of YOLOv8.2 I trained a new model with it.
 
 YOLOv8 accuracy = 0.851
 YOLOv8.2 accuracy = 0.893
